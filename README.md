@@ -22,10 +22,10 @@ To develop a React application that simulates an asynchronous operation using `u
 ## Student Data Used
 | Field | Value |
 |---|---|
-| Student Name | Arun |
+| Student Name | HANIEL REENA D R |
 | Department | CSE |
 | Full Department | Computer Science and Engineering |
-| Academic Year | III Year |
+| Academic Year | IV Year |
 | Status | Data Loaded Successfully |
 
 > The application uses a simulated server response. It does not connect to a real backend API.
