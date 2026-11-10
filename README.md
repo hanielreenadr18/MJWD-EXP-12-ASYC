@@ -33,13 +33,17 @@ To develop a React application that simulates an asynchronous operation using `u
 ## Screenshots
 
 ### 1. Initial Dashboard
-![Initial dashboard](screenshots/01-dashboard-initial.png)
+<img width="1851" height="816" alt="image" src="https://github.com/user-attachments/assets/1b078403-96ff-4b06-af5a-1105ae8929eb" />
+
 
 ### 2. Loading State
-![Loading state](screenshots/02-dashboard-loading.png)
+<img width="1884" height="857" alt="image" src="https://github.com/user-attachments/assets/d6bcb7db-c3ff-471f-b1ed-093e0504b02d" />
+
 
 ### 3. Student Profile After Data Retrieval
-![Student profile loaded](screenshots/03-student-profile-loaded.png)
+
+<img width="696" height="425" alt="image" src="https://github.com/user-attachments/assets/6e7f0488-f406-4b04-9e26-94efe77baa2f" />
+
 
 ## Folder Structure
 
